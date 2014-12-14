@@ -1,0 +1,4 @@
+If we can get the robot to succesfully follow basic behavoirs e.g. go there then everything else is very easy (e.g. flocking)
+
+We could possibly use an a star grid, created out of the image for extremely efficient movement
+
